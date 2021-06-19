@@ -11,7 +11,7 @@ A project for the course [AK HCAI Mini Projects (Class of 2021)](https://human-c
 ## Introduction
 This project implements the theoretical approaches described in [Related Publications](#related-publications) section and provides a set of example data sets.
 
-## Quickstart Guide
+## Application Description
 
 <img src="images/app_layout.png" width="50%">
 
